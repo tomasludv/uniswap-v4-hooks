@@ -4,6 +4,5 @@ out = "out"
 libs = ["lib"]
 ffi = true
 fs_permissions = [{ access = "read-write", path = ".forge-snapshots/"}]
-auto_detect_solc = true
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
